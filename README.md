@@ -1,4 +1,3 @@
-````markdown
 # <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:7B68EE&height=260&section=header&text=Ayush%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -354,5 +353,4 @@ Open To:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:7B68EE&height=140&section=footer"/>
 
-````
 
